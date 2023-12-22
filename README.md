@@ -2,7 +2,7 @@
 ### PASOS
 
 1) Crea una carperta - agregar el archivo app.py
-
+- verificar el key del API
 2) Crear un entorno virtuale env
  - python -m venv tutorial-env
  -cd ./env/scripts
